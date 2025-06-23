@@ -1,7 +1,7 @@
 # JPackage bug
 
 A minimalist project showcasing a bug found when packaging distributable
-apps using `jpackage`.
+apps using `jpackage` on Linux.
 
 This project contains a single source file `App.java` and a script `package.sh`
 for compiling it and packaging it into a distributable app using `jpackage`.
